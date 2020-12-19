@@ -1,3 +1,8 @@
-# hello-world
-Just another repository
-Nothing to see here but noob work can back later for more changes hopefully :)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic html webpage</title>
+  </head>
+  <body>
+  </body>
+  </html>
