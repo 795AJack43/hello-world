@@ -8,6 +8,7 @@
             background-color: #006622;
             color: white;
             text-align: center;
+            margin: 3em;
             }
     h1 {
             font: bold 2.5em "Marko One", Georgia, serif;
